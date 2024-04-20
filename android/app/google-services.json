@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233318761205",
+    "project_id": "intrusion-bd1ae",
+    "storage_bucket": "intrusion-bd1ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233318761205:android:965af304fb969d0b2cbbbc",
+        "android_client_info": {
+          "package_name": "com.example.intrusion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233318761205-qvenjjfnlvdr1u3rso32skpvch6joio6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.application",
+            "certificate_hash": "cd3aacda715c06656a06df37faf8ea9ed0857628"
+          }
+        },
+        {
+          "client_id": "233318761205-5u90qi13e1se3vbp7svfa1nv7is0oo68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBtaImTB7cPGHK0laNNqkur7ah0w9NS24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233318761205-5u90qi13e1se3vbp7svfa1nv7is0oo68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
