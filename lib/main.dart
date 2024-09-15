@@ -21,6 +21,8 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Palette.main),
         useMaterial3: true,
       ),
+
+      // LEARNING GIT WITH KUTTAN
       home: const dash(),
     );
   }
