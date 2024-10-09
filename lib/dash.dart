@@ -2,6 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'Screens/authentication.dart';
 import 'Screens/home.dart';
+import 'Screens/registration.dart';
 
 class dash extends StatefulWidget {
   const dash({super.key});
@@ -25,7 +26,7 @@ class _dashState extends State<dash> {
             } else if(snapshot.hasError) {
               return Center(child: Text("Some thing went wrong",style: TextStyle(color: Colors.white),),);
             } else {
-              return AuthScreen();
+              return RegisterScreen();
             }
           }
       ) ,
